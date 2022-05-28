@@ -28,3 +28,4 @@
 - Real World Python A Hackers Guide to Solving Problems with Code [[download]](https://github.com/HannyCarballo/Books_DataStructuresAndAlgorithms/blob/master/Python/Real-World%20Python%20A%20Hackers%20Guide%20to%20Solving%20Problems%20with%20Code.pdf)
 
 ### Programmers books
+- The Pragmatic Programmer Your Journey to Mastery, 20th Anniversary Edition [[download]](https://github.com/HannyCarballo/Books_DataStructuresAndAlgorithms/blob/master/Programmers%20books/The%20Pragmatic%20Programmer%20Your%20Journey%20to%20Mastery%2C%2020th%20Anniversary%20Edition.pdf)
