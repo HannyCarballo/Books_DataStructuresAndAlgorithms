@@ -1,6 +1,6 @@
 # Books_DataStructuresAndAlgorithms
 <p align="center">
-<img width="100" alt="image" src="https://media4.giphy.com/media/dZWuOLgXKGjBPSPYlA/giphy.gif?cid=ecf05e47qbbb5v5cu5mdnocn370ke6esjt1gxsbrn6i5vz9k&rid=giphy.gif&ct=s">
+<img width="200" alt="image" src="https://media4.giphy.com/media/dZWuOLgXKGjBPSPYlA/giphy.gif?cid=ecf05e47qbbb5v5cu5mdnocn370ke6esjt1gxsbrn6i5vz9k&rid=giphy.gif&ct=s">
 </p>
 
 ### Algorithms
