@@ -14,6 +14,7 @@
 - Hacker's Delight - Second Edition [[download]](https://github.com/HannyCarballo/Books_DataStructuresAndAlgorithms/blob/master/Algorithms/Hacker's%20Delight%20-%20Second%20Edition.pdf)
 - Introduction to Algorithms - Third Edition [[download]](https://github.com/HannyCarballo/Books_DataStructuresAndAlgorithms/blob/master/Algorithms/Introduction%20to%20Algorithms%20-%20Third%20Edition.pdf)
 - The Algorithm Design Manual - Second Edition [[download]](https://github.com/HannyCarballo/Books_DataStructuresAndAlgorithms/blob/master/Algorithms/The%20Algorithm%20Design%20Manual%20-%20Second%20Edition.pdf)
+- Algorithms for Dummies [[download]](https://github.com/HannyCarballo/Books_DataStructuresAndAlgorithms/blob/master/Algorithms/Algorithms%20for%20Dummies.pdf)
 
 ### Recursion
 - Introduction to Recursive Programming [[download]](https://github.com/HannyCarballo/Books_DataStructuresAndAlgorithms/blob/master/Recursion/Introduction%20to%20Recursive%20Programming.pdf)
