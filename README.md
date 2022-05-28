@@ -22,6 +22,8 @@
 
 ### C language
 - Programación en C, Metodologia, Algoritmos y estructura de datos [[download]](https://github.com/HannyCarballo/Books_DataStructuresAndAlgorithms/blob/master/C%20language/Programaci%C3%B3n%20en%20C%2C%20Metodologia%2C%20Algoritmos%20y%20estructura%20de%20datos.pdf)
+- C for Dummies [[download]](https://github.com/HannyCarballo/Books_DataStructuresAndAlgorithms/blob/master/C%20language/C%20for%20Dummies.pdf)
+- El lenguaje de programación C [[download]](https://github.com/HannyCarballo/Books_DataStructuresAndAlgorithms/blob/master/C%20language/El-lenguaje-de-programaci%C3%B3n-C.pdf)
 
 ### Python
 - Dive Into Algorithms A Pythonic Adventure for the Intrepid Beginner [[download]](https://github.com/HannyCarballo/Books_DataStructuresAndAlgorithms/blob/master/Python/Dive%20Into%20Algorithms%20A%20Pythonic%20Adventure%20for%20the%20Intrepid%20Beginner.pdf)
