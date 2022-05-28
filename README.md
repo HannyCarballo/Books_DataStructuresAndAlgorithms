@@ -19,3 +19,6 @@
 - Introduction to Recursive Programming [[download]](https://github.com/HannyCarballo/Books_DataStructuresAndAlgorithms/blob/master/Recursion/Introduction%20to%20Recursive%20Programming.pdf)
 - The Recursive Book of Recursion Ace the Coding Interview with Python and JavaScript [[download]](https://github.com/HannyCarballo/Books_DataStructuresAndAlgorithms/blob/master/Recursion/The%20Recursive%20Book%20of%20Recursion%20Ace%20the%20Coding%20Interview%20with%20Python%20and%20JavaScript.pdf)
 - Thinking Recursively [[download]](https://github.com/HannyCarballo/Books_DataStructuresAndAlgorithms/blob/master/Recursion/Thinking%20Recursively.pdf)
+
+### C language
+- Programación en C, Metodologia, Algoritmos y estructura de datos [[download]](https://github.com/HannyCarballo/Books_DataStructuresAndAlgorithms/blob/master/C%20language/Programaci%C3%B3n%20en%20C%2C%20Metodologia%2C%20Algoritmos%20y%20estructura%20de%20datos.pdf)
