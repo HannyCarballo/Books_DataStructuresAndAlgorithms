@@ -24,5 +24,7 @@
 - Programación en C, Metodologia, Algoritmos y estructura de datos [[download]](https://github.com/HannyCarballo/Books_DataStructuresAndAlgorithms/blob/master/C%20language/Programaci%C3%B3n%20en%20C%2C%20Metodologia%2C%20Algoritmos%20y%20estructura%20de%20datos.pdf)
 
 ### Python
+- Dive Into Algorithms A Pythonic Adventure for the Intrepid Beginner [[download]](https://github.com/HannyCarballo/Books_DataStructuresAndAlgorithms/blob/master/Python/Dive%20Into%20Algorithms%20A%20Pythonic%20Adventure%20for%20the%20Intrepid%20Beginner.pdf)
+- Real World Python A Hackers Guide to Solving Problems with Code [[download]](https://github.com/HannyCarballo/Books_DataStructuresAndAlgorithms/blob/master/Python/Real-World%20Python%20A%20Hackers%20Guide%20to%20Solving%20Problems%20with%20Code.pdf)
 
 ### Programmers books
